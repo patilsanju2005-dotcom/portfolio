@@ -10,3 +10,4 @@ This is a simple portfolio website created as part of a GitHub collaboration exp
 - Updated from develop branch
 - Added feature changes
 - Release version 1.0
+- Fixed bug 4
