@@ -5,3 +5,4 @@ This is a simple portfolio website created as part of a GitHub collaboration exp
 
 ## Contribution by Ketakee Deshmukh
 - Added and updated the project README file.
+- Added feature changes
