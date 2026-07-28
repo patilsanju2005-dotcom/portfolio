@@ -1,8 +1,4 @@
-# Portfolio
-
-## Project Description
-This is a simple portfolio website created as part of a GitHub collaboration experiment.
-
 ## Contribution by Ketakee Deshmukh
 - Added and updated the project README file.
+- Added feature changes
 - Release version 1.0
